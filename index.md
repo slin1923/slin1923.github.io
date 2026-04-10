@@ -9,7 +9,7 @@ Welcome!  This is a notes compilation dedicated to important engineering theory 
 
 Every engineer can relate to needing a refresher.  I got tired of sifting through a decentralized set of textbooks, wikipedia pages, blogs, Paul's Online Math Notes, or Physics Libre Texts, every time I needed to remind myself how to do something simple. 
 
-Voila - *Les Guides pour Les Nuls* (French for "The Guides for Dummies").  This name was inspired by a notes compilation with similar purpose: [The Matrix Cookbook](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf).  I figured if I was making my own personal theory cookbook, I'd go one step further and name it in the liking of the mother of all actual cookbooks: *Le Guide Culinaire* (Auguste Escoffier).  
+Voila - *Les Guides pour Les Nuls* (French for "The Guides for Dummies").  This name was inspired by a notes compilation with similar purpose: [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html).  I figured if I was making my own personal theory cookbook, I'd go one step further and name it in the liking of the mother of all actual cookbooks: *Le Guide Culinaire* (Auguste Escoffier).  
 
 My notes may be wrong!  These are effectively typeset scratch notes and prone to error.  If you find one, please email me at [seanlin@stanford.edu](mailto:seanlin@stanford.edu).
 
