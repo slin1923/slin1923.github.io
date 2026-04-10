@@ -1,0 +1,14 @@
+title: "Sean Lin – Theory Notes"
+description: "A personal compilation of math, physics, and engineering theory."
+theme: minima
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
+# Optional but nice
+nav_pages:
+  - math.md
+  - physics.md
+  - algorithms.md
