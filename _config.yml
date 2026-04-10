@@ -5,8 +5,3 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
-
-nav_pages:
-  - math.md
-  - physics.md
-  - algorithms.md
