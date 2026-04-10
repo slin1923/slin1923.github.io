@@ -6,7 +6,6 @@ kramdown:
   math_engine: mathjax
   input: GFM
 
-# Optional but nice
 nav_pages:
   - math.md
   - physics.md
