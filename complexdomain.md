@@ -9,9 +9,10 @@ title: Transformations
 
 The essence of a Laplace transform lies in how it captures both natural exponentials and frequencies of a system.  The Laplace transform is the cornerstone of dynamical systems and control theory where transients are involved.  It converts a function in the time domain to the complex domain and vice versa through its inverse. 
 
-This is the Laplace Transform $\mathcal{L} | f(t) \rightarrow F(s)$.  
+This is the Laplace Transform $\mathcal{L} \| f(t) \rightarrow F(s)$.  
 
 $$ \mathcal{L}([f(t)])  = \int_0^\infty f(t) e^{-st} dt = F(s)$$
+
 $$ \mathcal{L}^{-1}([F(s)])  = \int_0^\infty f(t) e^{-st} dt$$
 
 ### Fourier Transform
