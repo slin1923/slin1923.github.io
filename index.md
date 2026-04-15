@@ -15,11 +15,49 @@ My notes may be wrong!  These are effectively typeset scratch notes and prone to
 
 None of my notes, or explanations, are AI-generated. I hope you find them useful :)
 
-## Sections
+## Contents
 
-- [Math](math)
-- [Physics](physics)
-- [Algorithms](algorithms)
+Stuff near the front is generally useful.  Stuff near the back is niche. 
+- MATH
+    - Vector Calculus
+    - Multivariable 
+    - [Differential Equations](difeqs)
+    - [Linear Algebra](linalg)
+    - Statistics and Bayesian 
+    - [Complex Domain](complexdomain)
+- MECHANICS
+    - Classical Dynamics
+    - Fluids
+    - Thermodynamics
+    - Solid Mechanics
+    - Material Properties
+    - Finite Element Methods
+- ELECTRONICS
+    - Components (Resistors, Capacitors)
+    - Power Electronics
+    - Signal Processing
+    - E&M Theory 
+- ALGORITHMS
+    - Numerical Methods
+    - State Estimation (Kalman Filtering, EKF, etc...)
+    - Gradient Descent
+    - Genetic Algorithms
+    - Reinforcement Learning
+- CONTROL THEORY
+    - [Linear System Theory](linearsystemtheory)
+    - PID Control
+    - State Space Control
+    - Root Locus
+    - Bode-Nyquist Plots
+    - Modern Control
+- SPACE STUFF
+    - Orbital elements (Mean, Osculating, Relative)
+    - Common Satellite Coordinate Frames and Systems
+    - Transfer Orbits and Manuevers
+    - N-Body Theory
+    - GPS Theory
+
+
 
 ---
 
@@ -28,7 +66,7 @@ None of my notes, or explanations, are AI-generated. I hope you find them useful
 I care about: 
 - Theory from first principles
 - Balancing rigorous proofs and intuitive understanding (an analogy from the film *Oppenheimer*: it is equally important to be able to read the sheet music but also hear the melody)
-- Emphasizing things that are practically speaking best to commit to memory
+- Emphasizing things that are best to commit to memory (for practical purposes)
 
 ---
 
