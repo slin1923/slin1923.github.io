@@ -5,13 +5,19 @@ title: Linear System Theory
 
 
 <font size="5">Index</font>
-- [Linear System Theory](#linear-system-theory)
-  - [Definition of Linearity](#definition-of-linearity)
-  - [Linear System Definition](#linear-system-definition)
+- [Definition of Linearity](#definition-of-linearity)
+- [Linear Systems](#linear-systems)
+  - [Definition](#definition)
+  - [Linearization from Nonlinear](#linearization-from-nonlinear)
+    - [Jacobian Matrix](#jacobian-matrix)
+  - [Transfer Functions](#transfer-functions)
+    - [Poles and Zeros](#poles-and-zeros)
+    - [Root Locus](#root-locus)
+    - [Bode-Nyquist Frequency Response](#bode-nyquist-frequency-response)
+  - [Properties](#properties)
+    - [Controllability and Observability](#controllability-and-observability)
 
-# Linear System Theory
-
-## Definition of Linearity
+# Definition of Linearity
 A function is linear if 
 
 $$\forall ~ \alpha_1, \alpha_2 \in \mathbb{R} , \forall ~ x_1, x_2 \in \mathbb{R}^n$$
@@ -28,5 +34,23 @@ Without explicitly proving this, note that the $b$ term is where linearity break
 
 In practice, almost no real systems are linear, however all of them are linearizeable.  
 
-## Linear System Definition
+# Linear Systems
+
+## Definition
+
+## Linearization from Nonlinear
+
+### Jacobian Matrix
+
+## Transfer Functions
+
+### Poles and Zeros
+
+### Root Locus 
+
+### Bode-Nyquist Frequency Response
+
+## Properties
+
+### Controllability and Observability
 
