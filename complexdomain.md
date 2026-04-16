@@ -12,6 +12,15 @@ title: Complex Domain
   - [Z-transform](#z-transform)
 
 # Complex Numbers
+We learn in high school complex numbers are a simple mathematical definition where $j = \sqrt{-1}$.  This seemingly innocuous number has a hidden rotational property to it.  
+
+$$ j = j, \quad j^2 = -1, \quad j^3 = -j, \quad j^4 = 1, \quad j^5 = j$$
+
+Realize that when plotted on a complex plane, the act of multiplying a complex number by $j$ becomes a $90\degree$ CC rotation. This is an insanely useful property that is leveraged heavily in electrical and controls engineering. 
+
+![Plot](/assets/images/j_rotation.png)
+
+
 
 ## Euler's Equation
 
