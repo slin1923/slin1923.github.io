@@ -3,18 +3,20 @@ layout: default
 title: Linear System Theory
 ---
 
+
+<font size="5">Index</font>
+- [Linear System Theory](#linear-system-theory)
+  - [Definition of Linearity](#definition-of-linearity)
+  - [Linear System Definition](#linear-system-definition)
+
 # Linear System Theory
 
-- [Linear System Theory](#linear-system-theory)
-    - [Definition of Linearity](#definition-of-linearity)
-    - [Linear System Definition](#linear-system-definition)
-
-### Definition of Linearity
+## Definition of Linearity
 A function is linear if 
 
-$$\forall ~ \alpha_1, \alpha_2 \in \mathbb{R} , \forall ~ x_1, x_2 \in \mathbb{R}^n \\
+$$\forall ~ \alpha_1, \alpha_2 \in \mathbb{R} , \forall ~ x_1, x_2 \in \mathbb{R}^n$$
 
-f(\alpha_1x_1 + \alpha_2x_2) = \alpha_1 f(x_1) + \alpha_2 f(x_2) $$
+$$f(\alpha_1x_1 + \alpha_2x_2) = \alpha_1 f(x_1) + \alpha_2 f(x_2) $$
 
 This is called the principle of superposition.  It is relatively straightforward and no elaboration is needed.  
 
@@ -26,5 +28,5 @@ Without explicitly proving this, note that the $b$ term is where linearity break
 
 In practice, almost no real systems are linear, however all of them are linearizeable.  
 
-### Linear System Definition
+## Linear System Definition
 
