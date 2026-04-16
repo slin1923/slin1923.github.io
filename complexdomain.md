@@ -16,7 +16,7 @@ We learn in high school complex numbers are a simple mathematical definition whe
 
 $$ j = j, \quad j^2 = -1, \quad j^3 = -j, \quad j^4 = 1, \quad j^5 = j$$
 
-Realize that when plotted on a complex plane, the act of multiplying a complex number by $j$ becomes a $90\degree$ CC rotation. This is an insanely useful property that is leveraged heavily in electrical and controls engineering. 
+Realize that when plotted on a complex plane, the act of multiplying a complex number by $j$ becomes a $90 \degree$ CC rotation. This is an insanely useful property that is leveraged heavily in electrical and controls engineering. 
 
 ![Plot](/assets/images/j_rotation.png)
 

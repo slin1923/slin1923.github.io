@@ -1,7 +1,7 @@
 title: "Les guides pour les nuls"
 description: "A compilation of theory that engineers are always forgetting."
+theme: minima
 
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
   input: GFM
