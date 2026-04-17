@@ -11,7 +11,9 @@ I got tired of sifting through a decentralized set of textbooks, wikipedia pages
 
 Voila - *Les Guides pour Les Nuls* (French for "The Guides for Dummies").  This name was inspired by a notes compilation with similar purpose: [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html).  I figured if I was making my own personal theory cookbook, I'd go one step further and name it in the liking of the mother of all actual cookbooks: *Le Guide Culinaire* (Auguste Escoffier).  
 
-My notes may be wrong!  These are effectively typeset scratch notes and prone to error.  If you find one, please email me at [seanlin@stanford.edu](mailto:seanlin@stanford.edu).
+My notes may be wrong.  These are typeset scratch notes and prone to error.  If you find one, please email me at [seanlin@stanford.edu](mailto:seanlin@stanford.edu).
+
+My notes may be incomplete.  If a section is blank, it is a placeholder for me to fill in later. 
 
 None of my notes, or explanations, are AI-generated. I hope you find them useful :)
 
@@ -24,7 +26,7 @@ Stuff near the front is generally useful.  Stuff near the back is niche.
     - [Multivariable](multivariable)
     - [Differential Equations](difeqs)
     - [Linear Algebra](linalg)
-    - [Statistics and Bayesian](bayesian)
+    - [Probability and Statistics](bayesian)
     - [Complex Domain](complexdomain)
 - MECHANICS
     - [Classical Dynamics](classical_dynamics)
