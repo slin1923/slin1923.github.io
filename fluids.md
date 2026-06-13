@@ -77,6 +77,17 @@ Note that there are a few caveats/things to remember regarding the usage of the 
 
 # Propulsion
 
+The general equation for thrust (of any propulsion system air or fuel-breathing) is 
+
+$$ T = \dot{m_a}(U_e - U_0) + (P_e - P_0)A_e + \dot{m_f}U_e$$
+
+Notice that the three terms here are essentially 
+
+- momentum change of air mass
+- exit pressure differential
+- momentum change of fuel mass
+
+
 ## Propulsion Equation
 
 

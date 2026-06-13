@@ -10,7 +10,6 @@ title: Thermo
 - [Specific Heats Deep Dive](#specific-heats-deep-dive)
 - [Entropy Deep Dive](#entropy-deep-dive)
 
-
 # 3 laws of Thermodynamics
 
 # Thermodynamic Processes

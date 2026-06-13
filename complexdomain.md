@@ -24,6 +24,9 @@ Realize that when plotted on a complex plane, the act of multiplying a complex n
 </figure>
 
 ## Euler's Equation
+Largely considered the most beautiful equation in math, the Euler Equation is as follows
+
+$$ $$
 
 ## Useful Identities
 
@@ -37,7 +40,7 @@ This is the Laplace Transform $\mathcal{L} \| f(t) \rightarrow F(s)$.
 
 $$ \mathcal{L}([f(t)])  = \int_0^\infty f(t) e^{-st} dt = F(s)$$
 
-$$ \mathcal{L}^{-1}([F(s)])  = \int_0^\infty f(t) e^{-st} dt$$
+$$ \mathcal{L}^{-1}([F(s)])  = \frac{1}{2\pi}\int_{\sigma -j\omega}^{\sigma + j\omega} F(s) e^{st} ds$$
 
 ## Fourier Transform
 
