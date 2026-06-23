@@ -5,11 +5,11 @@ title: Home
 
 # Overview
 
-Welcome!  This is a notes compilation dedicated to basic yet fundamental engineering theory that I find myself needing refreshers on often. 
+Welcome!  This is a notes compilation dedicated to basic and fundamental engineering theory that I find myself needing refreshers on often. 
 
 I got tired of sifting through a decentralized set of textbooks, wikipedia pages, blogs, Paul's Online Math Notes, or Physics Libre Texts, every time I needed to remind myself how to do something simple. 
 
-Voila - *Les Guides pour Les Nuls* (French for "The Guides for Dummies").  This name was inspired by a notes compilation with similar purpose: [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html).  I figured if I was making my own personal theory cookbook, I'd go one step further and name it in the liking of the mother of all actual cookbooks: *Le Guide Culinaire* (Auguste Escoffier).  
+Voila - *Les Guides pour Les Nuls* (French for "The Guides for Dummies").  This name was inspired by a notes compilation with similar purpose: [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html).  I figured if I was making my own personal theory cookbook, I'd go one step further and name it in the liking of Escoffier's mother of all actual cookbooks: *Le Guide Culinaire*.  
 
 My notes may be wrong.  These are typeset scratch notes and prone to error.  If you find one, please email me at [seanlin@stanford.edu](mailto:seanlin@stanford.edu).
 
@@ -19,7 +19,7 @@ None of my notes, or explanations, are AI-generated. I hope you find them useful
 
 ## Contents
 
-Stuff near the front is generally useful.  Stuff near the back is niche. 
+Content near the front is general.  Content near the back is niche to my domain. 
 - MATH
     - [Geometry and Trigonometry](geotrig)
     - [Calculus](calculus)
@@ -64,7 +64,7 @@ Stuff near the front is generally useful.  Stuff near the back is niche.
 
 I care about: 
 - Theory from first principles
-- Balancing rigorous proofs and intuitive understanding (an analogy from the film *Oppenheimer*: it is equally important to be able to read the sheet music but also hear the melody)
+- Balancing rigorous proofs and intuitive understanding
 - Emphasizing things that are best to commit to memory (for practical purposes)
 
 ---
@@ -75,12 +75,10 @@ Knowing my background can put into context how I come to understand things.  Als
 My name is Sean Lin.  I am an aspiring GNC (Guidance, Navigation, and Control) engineer. We design systems that allow air/spacecraft to:
 1. determine where they are (Navigation)
 2. define the trajectory they want to follow (Guidance)
-3. physically execute this trajectory (Control)
-
-I specialize in satellites. 
+3. physically execute this trajectory (Control) 
 
 Qualifications: 
 - B.S. Mechanical Engineering + EECS (UC Berkeley, 2023)
 - M.S. Aeronautics and Astronautics (Stanford, 2026)
 - Cumulative Engineering Working Experience: 2 years
-- Cumulative Engineering Reserach Experience: < 1 year
+- Cumulative Engineering Reserach Experience: 1 year
