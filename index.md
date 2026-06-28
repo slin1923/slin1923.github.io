@@ -40,7 +40,7 @@ Content near the front is general.  Content near the back is niche to my domain.
     - [Signal Processing](signals)
     - [E&M Theory](theory) 
 - ALGORITHMS
-    - [Least Squares](least_squares) *and flavors*
+    - [Least Squares](least_square) *and flavors*
     - [Numerical Methods](numerical_methods) *Euler, Newton, RK4, etc...*
     - [State Estimation](state_estimation) *Kalman Filters, EKFs, UKFs, etc...*
     - [Machine Learning](ML) *RL included*
