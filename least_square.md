@@ -47,6 +47,14 @@ A few notes
   
 Solution Derivation: 
 
+$$
+\begin{align*}
+&\argmin_{x} ||Ax - b||^2_2\\
+\Rightarrow & \argmin_{x} (Ax - b)^T(Ax - b) \\
+\Rightarrow & \argmin_{x} (x^TA^TAx - x^TA^Tb - b^TAx + b^Tb)
+\end{align*}
+$$
+
 
 # Flavors
 
