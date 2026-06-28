@@ -3,7 +3,7 @@ layout: default
 title: Linear Algebra
 ---
 
-# Linear Algebra
+# Linear Algebra Basics
 
 ### Rowspace, Colspace, Nullspace, Rank
 
@@ -15,9 +15,10 @@ title: Linear Algebra
 
 ### Diagonalizeability
 
+# Advanced Concepts
+
 ### Similar Matrices
 
 ### SVD and PCA
 
 ### PD and PSD properties
-

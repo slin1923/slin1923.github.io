@@ -21,7 +21,7 @@ None of my notes, or explanations, are AI-generated. I hope you find them useful
 
 Content near the front is general.  Content near the back is niche to my domain. 
 - MATH
-    - [Geometry and Trigonometry](geotrig)
+    - [Geometry and Trigonometry](geom_trig)
     - [Calculus](calculus)
     - [Multivariable](multivariable)
     - [Differential Equations](difeqs)
@@ -40,6 +40,7 @@ Content near the front is general.  Content near the back is niche to my domain.
     - [Signal Processing](signals)
     - [E&M Theory](theory) 
 - ALGORITHMS
+    - [Least Squares](least_squares) *and flavors*
     - [Numerical Methods](numerical_methods) *Euler, Newton, RK4, etc...*
     - [State Estimation](state_estimation) *Kalman Filters, EKFs, UKFs, etc...*
     - [Machine Learning](ML) *RL included*
@@ -50,7 +51,7 @@ Content near the front is general.  Content near the back is niche to my domain.
     - [State Space Control](state_space)
     - [Modern Control](modern_control)
 - SPACE STUFF
-    - [Orbital elements](orbital_theory)
+    - [Orbital Basics](orbital_theory)
     - [Common Satellite Coordinate Frames and Systems](orbital_frames)
     - [Transfer Orbits and Manuevers](orbital_maneuvers)
     - [N-Body Theory](n-body)
