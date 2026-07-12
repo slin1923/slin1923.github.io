@@ -26,7 +26,7 @@ Content near the front is general.  Content near the back is niche to my domain.
     - [Multivariable](multivariable)
     - [Differential Equations](difeqs)
     - [Linear Algebra](linalg)
-    - [Probability and Statistics](bayesian)
+    - [Probability and Statistics](prob_stats)
     - [Complex Domain](complexdomain)
 - MECHANICS
     - [Classical Dynamics](classical_dynamics)
