@@ -59,7 +59,7 @@ With replacement: $z = \binom{n+k-1}{k} \triangleq \frac{(n+k-1)!}{(k)!(n-1)!}$
 2. As an exercise in solidfying intuition, it is also useful to see how these combinatorics scenarios evolve as $n\rightarrow \infty, \bar{k}$ or when $k\rightarrow \infty, \bar{n}$
 
 <figure align="center">
-  <img src="/assets/images/combinatorics_k_fixed.png" width="400">
+  <img src="/assets/images/combinatorics_k_fixed.png" width="600">
   <figcaption>varying n from (0, 50) with k = 5</figcaption>
 </figure>
 
@@ -68,8 +68,8 @@ With replacement: $z = \binom{n+k-1}{k} \triangleq \frac{(n+k-1)!}{(k)!(n-1)!}$
    - as $n\rightarrow \infty$, replacement and no replacement makes less and less of a difference.  ($P \rightarrow P_r$ and $C \rightarrow C_r$)
   
 <figure align="center">
-  <img src="/assets/images/combinatorics_n_fixed.png" width="400">
-  <figcaption>varying k from (0, 20) with n = 5</figcaption>
+  <img src="/assets/images/combinatorics_n_fixed.png" width="600">
+  <figcaption>varying k from (0, 20) with n = 10</figcaption>
 </figure>
 
    - relative order is invariant in $k$ where $k > 1$.  ($P_r(n,k) > P(n,k) > C_r(n,k) > C(n,k)$).  

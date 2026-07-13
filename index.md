@@ -9,7 +9,7 @@ Welcome!  This is a notes compilation dedicated to basic and fundamental enginee
 
 I got tired of sifting through a decentralized set of textbooks, wikipedia pages, blogs, Paul's Online Math Notes, or Physics Libre Texts, every time I needed to remind myself how to do something simple. 
 
-Voila - *Les Guides pour Les Nuls* (French for "The Guides for Dummies").  This name was inspired by a notes compilation with similar purpose: [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html).  I figured if I was making my own personal theory cookbook, I'd go one step further and name it in the liking of Escoffier's mother of all actual cookbooks: *Le Guide Culinaire*.  
+Voila - *Les Guides pour Les Nuls* ("The Guides for Dummies").  This name was inspired by a notes compilation with similar purpose: [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html).  I figured if I was making my own personal theory cookbook, I'd go one step further and name it in the liking of Escoffier's mother of all actual cookbooks: *Le Guide Culinaire*.  
 
 My notes may be wrong.  These are typeset scratch notes and prone to error.  If you find one, please email me at [seanlin@stanford.edu](mailto:seanlin@stanford.edu).
 
@@ -63,10 +63,13 @@ Content near the front is general.  Content near the back is niche to my domain.
 
 ## Notes Philosophy
 
-I care about: 
+I care about:
+
 - Theory from first principles
 - Balancing rigorous proofs and intuitive understanding
 - Emphasizing things that are best to commit to memory (for practical purposes)
+
+[Longer version here](notes_philo)
 
 ---
 
