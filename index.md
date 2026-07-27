@@ -21,6 +21,7 @@ None of my notes, or explanations, are AI-generated. I hope you find them useful
 
 Content near the front is general.  Content near the back is niche to my domain. 
 - MATH
+    - [Algebra](algebra)
     - [Geometry and Trigonometry](geom_trig)
     - [Calculus](calculus)
     - [Multivariable](multivariable)
