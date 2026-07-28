@@ -54,7 +54,7 @@ A few quick thoughts and intuitions:
 $$ \frac{a}{\sin(A)} = \frac{b}{\sin(B)} = \frac{c}{\sin(C)} $$
 
 A few quick intuitions. 
-- Will not derive, but should be quick to convince yourself that this circular equality comes from the perpendicular bisectors of any triangle (dotted lines in figure)
+- Will not derive, but convince yourself that this circular equality comes from the perpendicular bisectors as a stepping stone (dotted lines in figure)
 - pro tip: given SAS ($a, C, b$), law of cosines gives the remaining side $c$ and law of sines can give the remaining angles $B, A$. 
 
 ## sin, cos, tan, csc, sec, cot

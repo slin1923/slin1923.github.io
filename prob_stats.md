@@ -42,7 +42,7 @@ Without replacement: $z = \frac{n!}{(n-k)!} = n(n-1)(n-2)...(n-k+1)$
 
 Without replacement: $z = \binom{n}{k} \triangleq \frac{n!}{k!(n-k)!}$
 
-*the intuition here is relatively straightforward.  notice this is just permutation w/o replacement normalized by k! which represents the number of ways to order k elements*
+*notice this is just permutation w/o replacement normalized by k! which represents the number of ways to order k elements*
 
 With replacement: $z = \binom{n+k-1}{k} \triangleq \frac{(n+k-1)!}{(k)!(n-1)!}$
 
