@@ -50,7 +50,7 @@ With replacement: $z = \binom{n+k-1}{k} \triangleq \frac{(n+k-1)!}{(k)!(n-1)!}$
 
 ## Additional notes on Combinatorics
 
-1. The formulas for combinatorics is not difficult, most people could memorize these in 5 minutes.  What is more critical is recognizing which IRL scenarios boil down to what type of combinatorics problem.  
+1. The formulas for combinatorics are not complex.  What is more critical is recognizing which IRL scenarios boil down to what type of combinatorics problem.  
      - **Example of Perm w/o replacement**: all possible 1st, 2nd, and 3rd place podiums among n competitors
      - **Example of Perm w replacement**: creating a 4 digit PIN for you phone
      - **Example of Comb w/o replacement**: All possible 5-card poker hands. 
