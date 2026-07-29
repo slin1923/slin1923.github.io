@@ -54,6 +54,7 @@ $$
 \Rightarrow & \argmin_{x} (x^TA^TAx - x^TA^Tb - b^TAx + b^Tb) \\
 \end{align*}
 $$
+
 From here we see the function we are minimizing over is quadratic in $x$.  Additionally $A^TA$ is by definition always PSD regardless of $A$. Thus the function is also convex.  This makes minimizing simple. 
 
 $$
@@ -82,7 +83,7 @@ $$
 
 Where every scalar weight $w_i$ is the weight placed on the $i$th residual.  
 
-We can intuitively infer that this is most practical when certain datapoints in the problem are "less trustworth" than others, meriting a lower weight.  Following this philosophy, it is not difficult to intuitively see why each weight is defined as the inverse of the variance of the associated point. 
+We can intuitively infer that this is most practical when certain datapoints in the problem are "less trustworth" than others, meriting a lower weight.  Following this philosophy, we see why each weight is defined as the inverse of the variance of the associated point. 
 
 $$ w_i \triangleq \frac{1}{\sigma_i^2}$$
 
