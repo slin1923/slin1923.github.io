@@ -154,7 +154,7 @@ Hyperbolic trig is an entirely different beast. I'm willing to believe most peop
 The most intuitive way to understand conic sections is they are the 2-D functions that arise from slicing a **circular** cone with a plane.  
 
 <figure align="center">
-  <img src="/assets/images/conic-sections.png" width="700">
+  <img src="/assets/images/conic-sections.png" width="500">
   <figcaption>conic slices</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@ where $\theta$ is the half-angle subtended by the cone.
 Now, we must define the plane which slices the cone. There is no need to explicitly write out the equation of the plane because only one property of the plane really matters in order to determine which conic section is formed: its angle with the z-axis $\beta$.  Note that by definition of an angle between a plane and a vector, $\beta \in [0, \pi/2]$. 
 
 <figure align="center">
-  <img src="/assets/images/conic_slice_planes.png" width="700">
+  <img src="/assets/images/conic_slice_planes.png" width="500">
   <figcaption>conic slice planes visualized</figcaption>
 </figure>
 
@@ -245,7 +245,7 @@ And its polar form
 $$ r = \frac{p}{1 + \cos(\nu)}$$
 
 <figure align="center">
-  <img src="/assets/images/parabola.png" width="700">
+  <img src="/assets/images/parabola.png" width="500">
   <figcaption>parabola and important intrinsic relations</figcaption>
 </figure>
 
@@ -278,7 +278,7 @@ Notes
 As a parting note on conic sections, here is visual on how a conic section evolves as $e: 0\rightarrow\infty$. 
 
 <figure align="center">
-  <img src="/assets/images/eccentricities.png" width="700">
+  <img src="/assets/images/eccentricities.png" width="500">
   <figcaption>how conic sections evolve with e</figcaption>
 </figure>
 
