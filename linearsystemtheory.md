@@ -7,7 +7,6 @@ title: Linear System Theory
 <font size="5">Index</font>
 - [Definition of Linearity](#definition-of-linearity)
 - [Linear Systems](#linear-systems)
-  - [Definition](#definition)
   - [Linearization from Nonlinear](#linearization-from-nonlinear)
     - [Jacobian Matrix](#jacobian-matrix)
   - [Transfer Functions](#transfer-functions)
@@ -35,8 +34,6 @@ Without explicitly proving this, note that the $b$ term is where linearity break
 In practice, almost no real systems are linear, however all of them are linearizeable.  
 
 # Linear Systems
-
-## Definition
 
 ## Linearization from Nonlinear
 

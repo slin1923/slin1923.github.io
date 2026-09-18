@@ -47,10 +47,10 @@ Content near the front is general.  Content near the back is niche to my domain.
     - [Machine Learning](ML) *RL included*
     - [Optimization](optimization)
 - CONTROL THEORY
-    - [Linear System Theory](linearsystemtheory) *proof heavy*
-    - [PID Control](PID)
-    - [State Space Control](state_space)
-    - [Modern Control](modern_control)
+    - [Linear System Theory](linearsystemtheory) *proof heavy, focus on the setup of a linear feedback system*
+    - [PID Control](PID) 
+    - [State Space Control](state_space) *practical, focused on the design rules and best practices of a controller*
+    - [Modern Control](modern_control) 
 - SPACE STUFF
     - [Orbital Basics](orbital_theory)
     - [Common Satellite Coordinate Frames and Systems](orbital_frames)

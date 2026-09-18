@@ -22,3 +22,5 @@ title: Linear Algebra
 ### SVD and PCA
 
 ### PD and PSD properties
+
+# The Matrix Exponential
