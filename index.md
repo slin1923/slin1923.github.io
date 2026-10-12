@@ -75,15 +75,28 @@ I care about:
 ---
 
 ## About the Author
-Knowing my background can put into context how I come to understand things.  Also, my qualifications are given so you can decide how much to (or not to) trust my guide. 
+<div style="display: flex; align-items: flex-start; gap: 24px; margin: 20px 0 28px 0;">
+  <div style="flex: 0 0 30%; max-width: 240px;">
+    <img src="./assets/images/headshot.jpg" alt="Sean Lin" style="width: 100%; height: auto; border-radius: 8px; display: block;" />
+  </div>
+  <div style="flex: 1; min-width: 0;">
+    <p>Knowing my background can put into context how I come to understand things. My qualifications are also provided so you can decide how much to trust my guide.</p>
 
-My name is Sean Lin.  I am an aspiring GNC (Guidance, Navigation, and Control) engineer. We design systems that allow air/spacecraft to:
-1. determine where they are (Navigation)
-2. define the trajectory they want to follow (Guidance)
-3. physically execute this trajectory (Control) 
+<p>My name is Sean Lin. I am an aspiring GNC (Guidance, Navigation, and Control) engineer. We design systems that allow air- and spacecraft to:</p>
 
-Qualifications: 
-- B.S. Mechanical Engineering + EECS (UC Berkeley, 2023)
-- M.S. Aeronautics and Astronautics (Stanford, 2026)
-- Cumulative Engineering Working Experience: 2 years
-- Cumulative Engineering Reserach Experience: 1 year
+<ol>
+  <li>Determine where they are (Navigation)</li>
+  <li>Define the trajectory they want to follow (Guidance)</li>
+  <li>Physically execute this trajectory (Control)</li>
+</ol>
+
+<p><strong>Qualifications</strong></p>
+<ul>
+  <li>B.S. Mechanical Engineering + EECS (UC Berkeley, 2023)</li>
+  <li>M.S. Aeronautics and Astronautics (Stanford, 2026)</li>
+  <li>Cumulative Engineering Work Experience: 2 years</li>
+  <li>Cumulative Engineering Research Experience: 1 year</li>
+</ul>
+
+  </div>
+</div>
