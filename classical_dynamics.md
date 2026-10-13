@@ -136,13 +136,10 @@ Rotation matrices use 9 values to encode a 3-D attitude, a bit inefficient.  All
 Keeping in mind that I use passive rotations, the rotation matrices about the principal axes are the following:
 
 $$
-% Rotation about the x-axis (Passive)
 Q_x(\theta) = \begin{pmatrix} 1 & 0 & 0 \\ 0 & \cos\theta & \sin\theta \\ 0 & -\sin\theta & \cos\theta \end{pmatrix}
 \\
-% Rotation about the y-axis (Passive)
 Q_y(\theta) = \begin{pmatrix} \cos\theta & 0 & -\sin\theta \\ 0 & 1 & 0 \\ \sin\theta & 0 & \cos\theta \end{pmatrix}
 \\
-% Rotation about the z-axis (Passive)
 Q_z(\theta) = \begin{pmatrix} \cos\theta & \sin\theta & 0 \\ -\sin\theta & \cos\theta & 0 \\ 0 & 0 & 1 \end{pmatrix}
 $$
 
@@ -152,7 +149,7 @@ It is straightforward to use these to create compositions of rotations about the
 
 Often in academia researchers like to call rotation matrices direction cosine matrices (DCM) instead.  They accomplish the exact same thing - expressing attitudes in a 3x3 matrix. However the way DCMs are constructed differ from the sequential composition of rotation matrices, and instead start by assuming you have the basis vectors of your starting and ending FORs already. 
 
-Recall that $a \cdot b = |a||b|\cos{\theta_{ab}}$ and for unit vectors $a \cdot b = \cos{\theta_{ab}}$.  An inertial FOR $I$ is defined by a set of 3 unit basis vectors $[\mathbf{e_1, e_2, e_3}]$. A body FOR $B$ also has 3 unit basis vectors $[\mathbf{b_1, b_2, b_3}]_I$ where here the subscript $I$ denotes that $\mathbf{b_j}$ are expressed wrt $I$.  We can use these to construct the DCM. 
+Recall that $a \cdot b = \lvert a \rvert \lvert b \rvert \cos{\theta_{ab}}$ and for unit vectors $a \cdot b = \cos{\theta_{ab}}$.  An inertial FOR $I$ is defined by a set of 3 unit basis vectors $[\mathbf{e_1, e_2, e_3}]$. A body FOR $B$ also has 3 unit basis vectors $[\mathbf{b_1, b_2, b_3}]_I$ where here the subscript $I$ denotes that $\mathbf{b_j}$ are expressed wrt $I$.  We can use these to construct the DCM. 
 
 $$
 \mathbf{DCM}_{BI} = \begin{bmatrix} 
@@ -172,10 +169,13 @@ $$
 \cos(\theta_{31}) & \cos(\theta_{32}) & \cos(\theta_{33}) 
 \end{bmatrix}
 $$
+
 Where $\mathbf{DCM}_{BI}$ is left-applied to vector $x_I$ like so. 
+
 $$
 x_B = [\mathbf{DCM}_{BI}] x_I
 $$
+
 There are a few things worth pointing out about the structure of the $\mathbf{DCM}_{BI}$
 1. Its rows are the body frame basis expressed in the inertial frame
 2. Its columns are the inertial frame vectors expressed in the body frame
