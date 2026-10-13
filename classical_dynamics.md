@@ -137,9 +137,9 @@ Keeping in mind that I use passive rotations, the rotation matrices about the pr
 
 $$
 Q_x(\theta) = \begin{pmatrix} 1 & 0 & 0 \\ 0 & \cos\theta & \sin\theta \\ 0 & -\sin\theta & \cos\theta \end{pmatrix}
-\\
+\quad ; \quad 
 Q_y(\theta) = \begin{pmatrix} \cos\theta & 0 & -\sin\theta \\ 0 & 1 & 0 \\ \sin\theta & 0 & \cos\theta \end{pmatrix}
-\\
+\quad ; \quad 
 Q_z(\theta) = \begin{pmatrix} \cos\theta & \sin\theta & 0 \\ -\sin\theta & \cos\theta & 0 \\ 0 & 0 & 1 \end{pmatrix}
 $$
 
@@ -180,7 +180,7 @@ There are a few things worth pointing out about the structure of the $\mathbf{DC
 1. Its rows are the body frame basis expressed in the inertial frame
 2. Its columns are the inertial frame vectors expressed in the body frame
 3. it is still $\in SO(3)$. 
-4. Applying $\mathbf{DCM}_{BI}$ to a vector wrt $I$ effectively projects that vector onto all three basis vectors of $B$.  Similarly if working with $\mathbf{DCM}_{IB} = \mathbf{DCM}_{BI}^T$ applying to a vector wrt $B$ effectively projects that vector onto all three basis vectors of $I$. This makes it clear how $\mathbf{DCM}_{BI}$ works.  
+4. Applying $\mathbf{DCM}_{BI}$ to a vector wrt $I$ effectively projects that vector onto all three basis vectors of $B$.  Similarly if working with $\mathbf{DCM}_{IB} = \mathbf{DCM}_{BI}'$ applying to a vector wrt $B$ effectively projects that vector onto all three basis vectors of $I$. This makes it clear how $\mathbf{DCM}_{BI}$ works.  
 
 ### Quaternions
 
